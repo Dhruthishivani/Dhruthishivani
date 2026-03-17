@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi👋 I'm Dhruthishivani Baliga B </h1>
 <h3 align="center">Information Science and Engineering Student | Technology Enthusiast</h3>
 
 ---
@@ -9,7 +9,7 @@ A dedicated student with a keen interest in developing dependable applications.
 Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.
 
 - 📄 Check out my [Resume](#)
-- 💻 All of my projects are available on [GitHub](https://github.com/YOUR_USERNAME)
+- 💻 All of my projects are available on [GitHub](https://github.com/Dhruthishivani?tab=repositories)
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
 - 🤝 I am open to collaboration with creators, developers and tech enthusiasts
 

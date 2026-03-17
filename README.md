@@ -8,7 +8,7 @@
 A dedicated student with a keen interest in developing dependable applications.  
 Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.
 
-- 📄 Check out my [Resume](#)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1g9ploYj-_7CQyPKqHkLbcTRoWc4JApEo/view?usp=sharing)
 - 💻 All of my projects are available on [GitHub](https://github.com/Dhruthishivani?tab=repositories)
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems
 - 🤝 I am open to collaboration with creators, developers and tech enthusiasts

@@ -9,14 +9,3 @@ Passionate Information Science Engineering student with a strong interest in AI/
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1g9ploYj-_7CQyPKqHkLbcTRoWc4JApEo/view?usp=sharing)
 - 💻 Checkout my projects on [GitHub](https://github.com/Dhruthishivani?tab=repositories)
-
-
----
-
-## 🌐 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-</a>
-</p>

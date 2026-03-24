@@ -1,23 +1,45 @@
-<!--
-### Hi there, I'm Dhruthishivani Baliga! 👋
--->
+# Hi 👩‍💻, I'm Dhruthishivani Baliga
+
+## Information Science and Engineering Student | Technology Enthusiast
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Girl" width="400"/>
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>📖 About</h3>
+        <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
+        <ul>
+          <li>🔗 Check out my <a href="#">Resume</a></li>
+          <li>📁 All of my projects are available on <a href="https://github.com/Dhruthishivani">GitHub</a></li>
+          <li>💡 I look for opportunities to use my skills to solve challenging real-world problems.</li>
+          <li>🤝 I am open to collaboration with creators, developers and tech enthusiasts.</li>
+        </ul>
+        <br/>
+        <p><strong>Profile views:</strong> 1,038</p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Girl"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-## 👩‍💻 About Me
+## 💼 Experience
 
-A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.
+### Research Intern at NITK (National Institute of Technology Karnataka)
+*Currently/Previously*
 
-- Check out my **Resume**
-- All of my projects are available on **GitHub**
-- I look for opportunities to use my skills to solve challenging real-world problems.
-- I am open to collaboration with creators, developers and tech enthusiasts.
+### ML Intern at Infosys Springboard Internship 5.0
+Developed an AI-based image-to-story generation system using Python, Groq API, and Llama models to generate contextual narratives from user-provided images.
 
-**Profile views** 1,038
+<br/>
+
+## 🏆 Achievements
+
+- **Winner - Webovation Web Development Competition:** Secured 1st place for developing a Farm Management System with complete frontend and backend integration using Flask and MySQL.
+- **Top 5 Finalist - Digitize 2K25 Hackathon, AIT, Chikkamagaluru:** Led a team to design a real-time Sign Language Recognition system using machine learning techniques.
 
 <br/>
 
@@ -128,23 +150,6 @@ A dedicated student with a keen interest in developing dependable applications. 
 ### 🎯 Emerging Tech
 ![AR/VR Basics](https://img.shields.io/badge/AR%2FVR%20Basics-FF4B4B?style=for-the-badge&logo=oculus&logoColor=white)
 ![ARDUINO UNO](https://img.shields.io/badge/ARDUINO%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<br/>
-
-## 💼 Experience
-
-### Research Intern at NITK (National Institute of Technology Karnataka)
-*Currently/Previously*
-
-### ML Intern at Infosys Springboard Internship 5.0
-Developed an AI-based image-to-story generation system using Python, Groq API, and Llama models to generate contextual narratives from user-provided images.
-
-<br/>
-
-## 🏆 Achievements
-
-- **Winner - Webovation Web Development Competition:** Secured 1st place for developing a Farm Management System with complete frontend and backend integration using Flask and MySQL.
-- **Top 5 Finalist - Digitize 2K25 Hackathon, AIT, Chikkamagaluru:** Led a team to design a real-time Sign Language Recognition system using machine learning techniques.
 
 ---
 
